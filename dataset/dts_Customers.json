@@ -1,0 +1,12 @@
+{
+	"name": "dts_Customers",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "lnksrv_BootcampDB_Connection",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
